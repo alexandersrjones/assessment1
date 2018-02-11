@@ -1,0 +1,28 @@
+#menu {
+    position:fixed;
+    left:-110px;
+    top:50px;
+    width:100px;
+    padding:5px;
+    background-color:green;
+    transition:0.5s;
+}
+
+.mainbut {
+    width:100%;
+}
+
+.subbut {
+    position:absolute;
+    width:50px;
+    right:-50px;
+}
+
+#openbut {
+    top:0px;
+}
+
+#closebut {
+    bottom:0px;
+}
+
